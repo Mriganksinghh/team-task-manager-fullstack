@@ -1,8 +1,6 @@
 ## 🚀 Deployment Update
 
-Due to limited time during the initial submission, the project could not be deployed on Railway.
-
-However, after the timeline was extended, the application has now been successfully deployed and is fully functional in Railway platform.
+The application has now been successfully deployed and is fully functional in Railway platform.
 
 🔗 **Live Demo:** : https://affectionate-gentleness-production-5ca1.up.railway.app/login
 
